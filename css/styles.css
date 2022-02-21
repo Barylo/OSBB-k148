@@ -1,0 +1,90 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  }
+
+form {
+  display: flex;
+  margin-right: 1rem;
+}
+
+.btn {
+  margin-left: 1rem;
+}
+
+.navbar-brand {
+margin-left: 1em;
+
+}
+
+svg {
+  margin-left: 1em;
+}
+
+.body-content{
+margin-top: 100px;
+}
+
+.container{
+  justify-content: center;
+}
+
+.footer {
+  position: relative;
+  align-items: center;
+}
+
+main {
+  margin-top: -100px;
+  margin-bottom: -100px;
+}
+
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  font-size: 1.2rem;
+}
+
+.table{
+  display: inline-block;
+}
+
+.col-md-6 {
+  display: inline-block;
+
+}
+
+table,
+td {
+    border: 1px solid #333;
+    width: auto;
+    }
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.headtbl {
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.thbold{
+  font-weight: bold;
+  text-align: center;
+}
+.plansbold {
+  font-weight: bold;
+  text-align: center;
+}
